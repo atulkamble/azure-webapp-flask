@@ -15,7 +15,7 @@
 ## 📁 Project Structure
 
 ```
-azure-flask-webapp-demo/
+azure-flask-webapp/
 ├── app/
 │   ├── templates/
 │   │   └── index.html
